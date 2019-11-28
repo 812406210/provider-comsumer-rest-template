@@ -1,0 +1,5 @@
+server:
+  port: 7001
+
+user:
+  httpAddress: http://localhost:7000/getUser/
