@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-provider" />
         <module name="demo-comsumer" />
-        <module name="springcloud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
